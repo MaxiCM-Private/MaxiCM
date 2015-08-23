@@ -1,0 +1,11 @@
+<manifest>
+
+<!-- janice Repositories -->
+  <project path="device/janice" name="android_device_samsung_janice" remote="mcm" />
+  <project path="device/u8500-common" name="android_device_samsung_u8500-common" remote="mcm" />
+  <project path="kernel/u8500-common" name="Samsung_STE_Kernel" remote="mcm" />
+ 
+
+<!-- Add More Repos of devices here -->
+
+</manifest>
