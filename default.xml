@@ -500,7 +500,7 @@
   <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
-  <project path="vendor/cm" name="android_vendor_MaxiCM" remote="mcm" >
+  <project path="vendor/MaxiCM" name="android_vendor_MaxiCM" remote="mcm" >
     <copyfile src="bootimage/Android.mk" dest="kernel/Android.mk" >
     <copyfile src="tools/MaxiCM-build.sh" dest="MaxiCM-build.sh" />
   </project>
