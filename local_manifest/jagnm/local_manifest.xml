@@ -1,0 +1,8 @@
+<manifest>
+
+<!-- jagnm base repositories -->
+  <project path="device/jagnm" name="android_device_lge_jagnm" remote="mcm" />
+  <project path="kernel/jagnm_lp" name="android_kernel_lge_jagnm_lp" remote="mcm" />
+<!-- add more repos of jagnm here -->
+
+</manifest>
